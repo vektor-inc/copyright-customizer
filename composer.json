@@ -1,7 +1,6 @@
 {
     "name": "vektor-inc/copyright-customizer",
     "description": "Copyright Customizer",
-    "homepage": "https://github.com/vektor-inc/copyright-customizer",
     "license": "GPL 2.0 or Lator",
     "authors": [
         {
@@ -12,11 +11,5 @@
     "require": {
         "php": ">=5.6.0"
     },
-    "require-dev": {},
-    "repositories": {
-        "vektor-inc/copyright-customizer": {
-            "type": "vcs",
-            "url": "https://github.com/vektor-inc/copyright-customizer"
-        }
-    }
+    "require-dev": {}
 }
